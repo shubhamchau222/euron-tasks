@@ -1,7 +1,7 @@
 
 def say_hello():
     print("Hello Super30")
-    print("My Python environment is ready")
+    # print("My Python environment is ready")
 
 
 
